@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d0d20af.css",
+    "main.js": "/static/js/main.2f6be950.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/Axa_board_room_2201751b.jpg": "/static/media/Axa_board_room_2201751b.73861786a013e191fc0c.jpg",
+    "index.html": "/index.html",
+    "main.5d0d20af.css.map": "/static/css/main.5d0d20af.css.map",
+    "main.2f6be950.js.map": "/static/js/main.2f6be950.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d0d20af.css",
+    "static/js/main.2f6be950.js"
+  ]
+}
